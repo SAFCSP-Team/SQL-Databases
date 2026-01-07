@@ -1,7 +1,6 @@
 # SQL Database
 This repository provides a practical and beginner-friendly guide to working with **SQL databases**, focusing on relational database concepts and hands-on implementation using **MySQL**.
 
-
 ## What You'll Learn 
 - The difference between **relational and non-relational databases** 
 - Core SQL concepts: **tables, columns, records** 
@@ -14,11 +13,13 @@ This repository provides a practical and beginner-friendly guide to working with
 | [Introduction](./content/01.Introduction.md) | Overview of databases and SQL fundamentals       |
 | [MySQL Setup](./content/02.MySQL-Setup.md)               | Installing and configuring MySQL                 |
 | [Database Management](./content/03.Database-Management.md)   | Creating, displaying, and deleting databases         |
-| [Tables Management]()   | Creating, modifying, and deleting tables         |
-| [Records Management]() | Inserting, updating, deleting, and querying data |
-| [Views]()                           | Creating and managing virtual tables             |
-| [Procedures]()                 | Writing and executing stored procedures          |
-| [Indexes]()                       | Improving query performance using indexes        |
-| [Relationships]()           | Modeling 1:1, 1:M, and M:M relationships         |
+| [Tables Management]() (In-progress)  | Creating, modifying, and deleting tables         |
+| [Records Management]() (In-progress) | Inserting, updating, deleting, and querying data |
+| [Views]() (In-progress)                          | Creating and managing virtual tables             |
+| [Procedures]()  (In-progress)               | Writing and executing stored procedures          |
+| [Indexes]()  (In-progress)                     | Improving query performance using indexes        |
+| [Relationships]()   (In-progress)        | Modeling 1:1, 1:M, and M:M relationships         |
 
 
+> [!CAUTION]
+> This repository is a work in progress and is not the final content as some parts have not been reviewed yet.

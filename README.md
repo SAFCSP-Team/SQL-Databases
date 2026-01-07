@@ -13,12 +13,12 @@ This repository provides a practical and beginner-friendly guide to working with
 | [Introduction](./content/01.Introduction.md) | Overview of databases and SQL fundamentals       |
 | [MySQL Setup](./content/02.MySQL-Setup.md)               | Installing and configuring MySQL                 |
 | [Database Management](./content/03.Database-Management.md)   | Creating, displaying, and deleting databases         |
-| [Tables Management]() (In-progress)  | Creating, modifying, and deleting tables         |
-| [Records Management]() (In-progress) | Inserting, updating, deleting, and querying data |
-| [Views]() (In-progress)                          | Creating and managing virtual tables             |
-| [Procedures]()  (In-progress)               | Writing and executing stored procedures          |
-| [Indexes]()  (In-progress)                     | Improving query performance using indexes        |
-| [Relationships]()   (In-progress)        | Modeling 1:1, 1:M, and M:M relationships         |
+| [Table Management](./content/04.Table-Management.md) (In-progress)  | Creating, modifying, and deleting tables         |
+| [Record Management](#) (In-progress) | Inserting, updating, deleting, and querying data |
+| [Views](#) (In-progress)                          | Creating and managing virtual tables             |
+| [Procedures](#)  (In-progress)               | Writing and executing stored procedures          |
+| [Indexes](#)  (In-progress)                     | Improving query performance using indexes        |
+| [Relationships](#)   (In-progress)        | Modeling 1:1, 1:M, and M:M relationships         |
 
 
 > [!CAUTION]

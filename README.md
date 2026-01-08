@@ -14,7 +14,7 @@ This repository provides a practical and beginner-friendly guide to working with
 | [MySQL Setup](./content/02.MySQL-Setup.md)               | Installing and configuring MySQL                 |
 | [Database Management](./content/03.Database-Management.md)   | Creating, displaying, and deleting databases         |
 | [Table Management](./content/04.Table-Management.md) | Creating, modifying, and deleting tables         |
-| [Record Management](#) (In-progress) | Inserting, updating, deleting, and querying data |
+| [Record Management](./content/05.Record-Management.md) | Inserting, updating, deleting, and querying data |
 | [Views](#) (In-progress)                          | Creating and managing virtual tables             |
 | [Procedures](#)  (In-progress)               | Writing and executing stored procedures          |
 | [Indexes](#)  (In-progress)                     | Improving query performance using indexes        |

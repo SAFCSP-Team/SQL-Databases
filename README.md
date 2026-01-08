@@ -15,7 +15,7 @@ This repository provides a practical and beginner-friendly guide to working with
 | [Database Management](./content/03.Database-Management.md)   | Creating, displaying, and deleting databases         |
 | [Table Management](./content/04.Table-Management.md) | Creating, modifying, and deleting tables         |
 | [Record Management](./content/05.Record-Management.md) | Inserting, updating, deleting, and querying data |
-| [Views](#) (In-progress)                          | Creating and managing virtual tables             |
+| [Views](./content/06.Views.md)           | Creating and managing virtual tables             |
 | [Procedures](#)  (In-progress)               | Writing and executing stored procedures          |
 | [Indexes](#)  (In-progress)                     | Improving query performance using indexes        |
 | [Relationships](#)   (In-progress)        | Modeling 1:1, 1:M, and M:M relationships         |

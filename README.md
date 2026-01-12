@@ -17,7 +17,7 @@ This repository provides a practical and beginner-friendly guide to working with
 | [Record Management](./content/05.Record-Management.md) | Inserting, updating, deleting, and querying data |
 | [Views](./content/06.Views.md)           | Creating and managing virtual tables             |
 | [Procedures](./content/07.Procedures.md) | Writing and executing stored procedures          |
-| [Indexes](./content)  (In-progress)                     | Improving query performance using indexes        |
+| [Indexes](./content/08.Indexes.md)                    | Improving query performance using indexes        |
 | [Relationships](./content)   (In-progress)        | Modeling 1:1, 1:M, and M:M relationships         |
 
 

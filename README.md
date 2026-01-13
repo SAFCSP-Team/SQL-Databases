@@ -18,7 +18,7 @@ This repository provides a practical and beginner-friendly guide to working with
 | [Views](./content/06.Views.md)           | Creating and managing virtual tables             |
 | [Procedures](./content/07.Procedures.md) | Writing and executing stored procedures          |
 | [Indexes](./content/08.Indexes.md)                    | Improving query performance using indexes        |
-| [Relationships](./content)   (In-progress)        | Modeling 1:1, 1:M, and M:M relationships         |
+| [Relationships](./content/09.Relationships.md)        | Modeling 1:1, 1:M, and M:M relationships         |
 
 
 > [!CAUTION]
